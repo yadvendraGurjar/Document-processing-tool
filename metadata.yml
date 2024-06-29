@@ -1,0 +1,14 @@
+---
+:id: 206816270
+:submitters:
+- :name: Subhojit Ghosal
+  :email: mt6221976@maths.iitd.ac.in
+- :name: Yadvendra Gurjar
+  :email: ee3221764@ee.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-10-27 10:31:53.782453000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-10-27 03:31:53.782453000 Z
+:status: processed
+:score: 49.1111
